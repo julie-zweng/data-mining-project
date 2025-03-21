@@ -7,3 +7,11 @@ Potential research questions include:
 - What drug classes are experiencing higher overdose rates?
 
 All datasets will be cleaned then examined with exploratory data analysis. Then, both supervised and unsupervised learning methods will be implemented to answer research questions.
+
+Please check out our website for more information on this effort: <a href="https://sites.google.com/view/data-mining-project-group-one/introduction" target="_blank">Exploring the Opioid Crisis</a>
+
+<strong>Team Members </strong>
+- Bridget Litostansky
+- Grace Mudd
+- Annelise Thorn
+- Julie Zweng
